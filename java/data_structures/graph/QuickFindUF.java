@@ -1,4 +1,4 @@
-package java.data_structures;
+package java.data_structures.graph;
 
 public class QuickFindUF {
     private int[] id;
